@@ -12,6 +12,8 @@ namespace ConsoleApplication2
 
         {
             Console.Write("Now demoing clone merge and branch");
+
+            Console.Write("adding for the first feature set");
             Console.ReadLine();
         }
     }
