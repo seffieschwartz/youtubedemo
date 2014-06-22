@@ -10,6 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+	    Console.WriteLine("this is the bug fix on the master");
             Console.WriteLine("hello world");
             Console.ReadLine();
             Console.WriteLine("new change after we  have uploaded our initial commit to the repository");
