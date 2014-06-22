@@ -12,7 +12,8 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("hello world");
             Console.ReadLine();
-
+            Console.WriteLine("new change after we  have uploaded our initial commit to the repository");
+            Console.ReadLine();
         }
     }
 }
